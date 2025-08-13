@@ -7,5 +7,5 @@ This template contains a Java project that creates a [Jet](https://docs.hazelcas
 Create the project using Hazelcast CLC:
 
 ```
-clc project create java-gradle-jet-sample
+clc project create -t java-gradle-jet-sample
 ```
